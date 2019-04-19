@@ -1,0 +1,7 @@
+{
+  "name": "linea-rosa",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
