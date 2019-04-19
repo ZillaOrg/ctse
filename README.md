@@ -1,4 +1,3 @@
-# ctse
 # Description
 This is a play app that demonstrates how to use ionic 3 to:
 
