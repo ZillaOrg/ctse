@@ -1,8 +1,8 @@
 {
-    "name": "ionic-emergency",
+    "name": "sos",
     "version": "0.0.1",
-    "author": "Adolfo Vazquez Ceballos",
-    "homepage": "http://agile.do/",
+    "author": "Dileepa And Bimali",
+    "homepage": "http://sliit.lk/",
     "private": true,
     "scripts": {
         "clean": "ionic-app-scripts clean",
@@ -55,7 +55,7 @@
         "@ionic/app-scripts": "3.0.0",
         "typescript": "2.3.4"
     },
-    "description": "Una alternativa de comunicación que te servirá en una situación de emergencia o de peligro.",
+    "description": "App that allows users to notify 2 contacts in case of an emergency and call an emergency number.",
     "cordova": {
         "plugins": {
             "cordova-plugin-contacts": {
